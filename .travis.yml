@@ -5,6 +5,8 @@ matrix:
       python: 3.6
     - os: osx
       language: generic
+    - os: windows
+      language: generic
 
 services:
   - docker
